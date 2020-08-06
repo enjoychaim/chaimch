@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![chaimch's github stats](https://github-readme-stats.vercel.app/api?username=chaimch&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaimch)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaimch&layout=right) -->
