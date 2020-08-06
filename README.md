@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 <!-- <img align='right' src='https://raw.githubusercontent.com/chaimch/chaimch/master/img/github_wall.gif' width='200'> -->
 <img align='right' src='https://cdn.jsdelivr.net/gh/chaimch/FigureBed@master/uPic/github_wall.gif' width='200'>
 
-![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=chaimch&show_icons=true&theme=radical)
+![chaimch's github stats](https://github-readme-stats.vercel.app/api?username=chaimch&show_icons=true&theme=tokyonight&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaimch)
